@@ -2,7 +2,11 @@
   font-family: sans-serif;
   text-align: center;
 }
-.input {
+body {
+  background-color: lightpink;
+}
+input {
   padding: 1rem;
-  width: 80px;
+  width: 10rem;
+  border-color: green;
 }
